@@ -10,6 +10,7 @@
 // @grant        none
 // @run-at       document-start
 // @require      https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js
+// @license      https://github.com/1024Vip/Vdownload/blob/main/LICENSE
 // ==/UserScript==
 
 (function() {
