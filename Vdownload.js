@@ -586,10 +586,11 @@
         }
         @keyframes pf{
             0%   {bottom:0;}
-            50%  {opacity: .8;}
+            15%  {bottom:30%;}
+            60%  {bottom:30%;opacity: .8;}
             75%  {opacity: .5;}
-            85%  {opacity: .3;}
-            100% {opacity: .2;bottom:100%;}
+            85%  {opacity: 0;bottom:100%}
+            100% {opacity: 0;}
         }`;
             Insertstyle(css_asd1);
             XF();
